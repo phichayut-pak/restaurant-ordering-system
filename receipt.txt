@@ -1,0 +1,8 @@
+Recept:
+Burger - 120.0 baht
+Burger - 120.0 baht
+Burger - 120.0 baht
+Drink - 40.0 baht
+Drink - 40.0 baht
+Dessert - 60.0 baht
+Status: Ready
